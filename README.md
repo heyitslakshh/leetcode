@@ -6,6 +6,7 @@ i am adding the solution of good leetcode question in this repository.
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/heyitslakshh/leetcode/tree/master/0041-first-missing-positive) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/heyitslakshh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -15,4 +16,8 @@ i am adding the solution of good leetcode question in this repository.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/heyitslakshh/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/heyitslakshh/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
